@@ -350,32 +350,6 @@ Recommandations
 | **Excel**              | Source des données                |
 | **GitHub**             | Gestion et présentation du projet |
 
----
-
-# 📁 Structure du repository
-
-```text
-02-analyse-ventes-powerbi/
-│
-├── 📁 data/
-│   └── donnees_ventes.xlsx
-│
-├── 📁 powerbi/
-│   └── analyse_ventes.pbix
-│
-├── 📁 images/
-│   ├── page_1_vue_generale.png
-│   ├── page_2_produits.png
-│   ├── page_3_commerciaux.png
-│   └── page_4_clients_paiements.png
-│
-├── 📁 documentation/
-│   └── cahier_des_charges.pdf
-│
-└── README.md
-```
-
----
 
 # 🎯 Livrables
 
